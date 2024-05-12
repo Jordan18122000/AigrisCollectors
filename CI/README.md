@@ -19,7 +19,7 @@ Le désactiver en réinitialisant la variable d'environnement TEST_MODE à une v
 
 unset TEST_MODE
 
-##  MISRA-C 2004
+##  MISRA-C 2023
 Vérification la conformité des programmes écrits en C avec certaines des règles de la norme de développement logiciel [MISRA-C:2004](http://en.wikipedia.org/wiki/MISRA_C).
 
 [FR]Les vérifications des règles suivantes sont mises en œuvre :
