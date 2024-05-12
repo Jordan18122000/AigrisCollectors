@@ -9,7 +9,7 @@ Run le script
 `./CI/build.sh`
 
 
-##  MISRA-C 2004
+##  MISRA-C 2023
 Verifying the conformity of programs written in C with some of the rules of the software development standard [MISRA-C:2023](https://gitlab.com/MISRA).
 
 Checks for the following rules are planned to be implemented:
